@@ -18,7 +18,7 @@
                 <RouterLink to="/">
                     <q-item clickable>
                         <q-item-section avatar>
-                            <q-icon name="school" />
+                            <q-icon name="home" />
                         </q-item-section>
                         <q-item-section>
                             <q-item-label>Home</q-item-label>
@@ -29,7 +29,7 @@
                 <RouterLink to="/table-view">
                     <q-item clickable>
                         <q-item-section avatar>
-                            <q-icon name="school" />
+                            <q-icon name="people" />
                         </q-item-section>
                         <q-item-section>
                             <q-item-label>Table</q-item-label>
