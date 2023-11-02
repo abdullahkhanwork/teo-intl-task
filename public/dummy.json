@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Abdullah Khan",
+        "rank": "higher rank"
+    },
+    {
+        "id": 2,
+        "name": "Abdullah",
+        "rank": "lower rank"
+    },
+    {
+        "id": 3,
+        "name": "M.Khan",
+        "rank": "some rank"
+    }
+]
+  
